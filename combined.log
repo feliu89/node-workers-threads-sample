@@ -1,0 +1,10 @@
+2022-10-22T21:18:14.372Z [main-logger] info: WorkerId: 7, Job: 1
+2022-10-22T21:18:14.373Z [main-logger] info: WorkerId: 3, Job: 2
+2022-10-22T21:18:14.374Z [main-logger] info: WorkerId: 6, Job: 3
+2022-10-22T21:18:14.374Z [main-logger] info: WorkerId: 5, Job: 4
+2022-10-22T21:18:14.375Z [main-logger] info: WorkerId: 4, Job: 5
+2022-10-22T21:18:14.377Z [main-logger] info: WorkerId: 1, Job: 6
+2022-10-22T21:18:14.377Z [main-logger] info: WorkerId: 2, Job: 7
+2022-10-22T21:18:14.377Z [main-logger] info: WorkerId: 8, Job: 8
+2022-10-22T21:18:14.378Z [main-logger] info: WorkerId: 7, Job: 9
+2022-10-22T21:18:14.378Z [main-logger] info: WorkerId: 3, Job: 10
