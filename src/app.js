@@ -1,6 +1,6 @@
 import express from 'express';
 import dotenv from 'dotenv';
-import { router } from './router.js';
+import { router } from './router/index.js';
 dotenv.config();
 
 const PORT = process.env.PORT || 80;
